@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\\Diogo Henrique\\Desktop\\Diih\\System Analysis\\Python\\Ramais\\Ramais 2.0'],
+             pathex=['.\\Ramais 2.0'],
              binaries=[],
              datas=[],
              hiddenimports=[],
